@@ -1,0 +1,6 @@
+# > weibo
+HOST-SUFFIX,weibo.cn,CExtra
+HOST-SUFFIX,weibo.com,CExtra
+
+# > zhihu
+HOST-SUFFIX,zhihu.com,CExtra
