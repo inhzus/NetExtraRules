@@ -4,3 +4,9 @@ HOST-SUFFIX,weibo.com,CExtra
 
 # > zhihu
 HOST-SUFFIX,zhihu.com,CExtra
+# api.zhihu.com
+IP-CIDR,103.41.167.226/32,CExtra
+IP-CIDR,103.41.167.234/32,CExtra
+IP-CIDR,103.41.167.235/32,CExtra
+IP-CIDR,103.41.167.236/32,CExtra
+
