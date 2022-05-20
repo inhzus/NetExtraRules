@@ -1,6 +1,7 @@
 payload:
   # > Google
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,gstatic.com
   
   # > StackOverflow
   - DOMAIN-SUFFIX,stackoverflow.com
