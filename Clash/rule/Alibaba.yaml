@@ -1,0 +1,13 @@
+payload:
+  # > Google
+  - DOMAIN-KEYWORD,google
+  
+  # > StackOverflow
+  - DOMAIN-SUFFIX,stackoverflow.com
+  
+  # > alibaba
+  - DOMAIN-KEYWORD,alibaba
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,antfin
+  - DOMAIN-KEYWORD,dingtalk
