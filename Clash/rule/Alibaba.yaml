@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,antfin
   - DOMAIN-KEYWORD,dingtalk
+  - DOMAIN-SUFFIX,cnzz.com
