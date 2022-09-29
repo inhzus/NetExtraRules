@@ -1,13 +1,13 @@
 # > weibo
-HOST-SUFFIX,weibo.cn,CExtra
-HOST-SUFFIX,weibo.com,CExtra
+HOST-SUFFIX, weibo.cn, CExtra
+HOST-SUFFIX, weibo.com, CExtra
 
 # # > zhihu
-# HOST-SUFFIX,zhihu.com,CExtra
-# HOST-SUFFIX,zhimg.com,CExtra
-# HOST-SUFFIX,vzuu.com,CExtra
+# HOST-SUFFIX, zhihu.com, CExtra
+# HOST-SUFFIX, zhimg.com, CExtra
+# HOST-SUFFIX, vzuu.com, CExtra
 # # api.zhihu.com
-# IP-CIDR,103.41.167.226/32,CExtra,no-resolve
-# IP-CIDR,103.41.167.234/32,CExtra,no-resolve
-# IP-CIDR,103.41.167.235/32,CExtra,no-resolve
-# IP-CIDR,103.41.167.236/32,CExtra,no-resolve
+# IP-CIDR, 103.41.167.226/32, CExtra, no-resolve
+# IP-CIDR, 103.41.167.234/32, CExtra, no-resolve
+# IP-CIDR, 103.41.167.235/32, CExtra, no-resolve
+# IP-CIDR, 103.41.167.236/32, CExtra, no-resolve
