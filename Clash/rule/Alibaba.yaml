@@ -1,8 +1,0 @@
-payload:
-  # > alibaba
-  - DOMAIN-KEYWORD,alibaba
-  - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,antfin
-  - DOMAIN-KEYWORD,dingtalk
-  - DOMAIN-SUFFIX,cnzz.com
