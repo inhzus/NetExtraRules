@@ -1,16 +1,18 @@
 DOMAIN-SUFFIX, 1password.com
-DOMAIN-SUFFIX, surge-activation.com
-DOMAIN-SUFFIX, setapp.com
 DOMAIN-SUFFIX, cppreference.com
+DOMAIN-SUFFIX, setapp.com
+DOMAIN-SUFFIX, surge-activation.com
+DOMAIN_SUFFIX, stats.fm
 DOMAIN-SUFFIX, tagcdnsub.work
 
-DOMAIN-SUFFIX, vercel.app
-DOMAIN-SUFFIX, jsdelivr.net
 DOMAIN-SUFFIX, bugsnag.com
 DOMAIN-SUFFIX, digicert.com
+DOMAIN-SUFFIX, jsdelivr.net
+DOMAIN-SUFFIX, purchasely.io
+DOMAIN-SUFFIX, vercel.app
 
 // Shopee
-DOMAIN-SUFFIX, seagroup.com
 DOMAIN-SUFFIX, sea.com
+DOMAIN-SUFFIX, seagroup.com
 DOMAIN-SUFFIX, shopee.com
 DOMAIN-SUFFIX, shopee.io
