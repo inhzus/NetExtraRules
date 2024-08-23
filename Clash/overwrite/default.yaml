@@ -1,0 +1,8 @@
+rules:
+  DOMAIN, sptv.ii00.cc, DIRECT
+  
+  DOMAIN-SUFFIX, maj-soul.com, DIRECT
+  DOMAIN-SUFFIX, catmjstudio.com, DIRECT
+  DOMAIN-SUFFIX, catmjsoul.com, DIRECT
+  
+  DOMAIN-SUFFIX, mahjong-jp.net, DIRECT
